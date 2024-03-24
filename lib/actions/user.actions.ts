@@ -1,12 +1,4 @@
-"user server"
-
-// Server Actions are asynchronous functions that are executed on the server. They can be used in Server and Client Components to handle form submissions and data mutations in Next.js applications.
-// Alternative to API routes
-
-
-
-// CREATE
-
+"user server";
 
 import { revalidatePath } from "next/cache";
 
